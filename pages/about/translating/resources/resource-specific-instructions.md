@@ -62,10 +62,10 @@ Then, translate the ["Translations" section](/videos/standards-and-benefits/#tra
      * "Language"
    * Update the image per the instructions below.\
    _If you are not able to update the image, let us know at [group-wai-translations@w3.org](mailto:group-wai-translations@w3.org)._
-     * Make a new image to replace [show-language.png](https://www.w3.org/WAI/content-images/wai-video-standards-and-benefits/show-language.png). The circle is 7px #eed009 / rgb(238,208,9).
+     * Make a new image to replace [show-language.png](https://www.w3.org/WAI/content-images/video-introduction/show-language.png). The circle is 7px #eed009 / rgb(238,208,9).
      * Name it `show-language.[language tag].png`\
      For example: `show-language.fr.png`
-     * Upload it to the [content-images folder](https://github.com/w3c/wai-video-standards-and-benefits/tree/master/content-images/wai-video-standards-and-benefits)
+     * Upload it to the [content-images folder](https://github.com/w3c/wai-video-standards-and-benefits/tree/master/content-images/video-introduction)
    * In your translation, add the language tag to the image path.
 2. **If the player is _not_ available in the translated language**:
    * Do not translate the following words from the video player interface; leave them in English:
